@@ -1600,5 +1600,9 @@
     {
         "text": "Ready to move on, finally.  Admitting it publicly, so that I can be held accountable to e̶n̶e̶m̶i̶e̶s̶ friends",
         "timestamp": "2021-05-19T14:28:17+01:00"
+    },
+    {
+        "text": "Instead of simply complaining, I’m working on a ``gvim`` replacement for neovim.  Try it at JNRowe/igneous, and comment",
+        "timestamp": "2021-07-06T14:17:40+01:00"
     }
 ]
